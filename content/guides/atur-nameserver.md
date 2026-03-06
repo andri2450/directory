@@ -2,7 +2,7 @@
 title: Atur Nameserver
 slug: Atur-Nameserver
 ---
-
+content/guides/
 
 ## Untuk mengganti nameserver dilakukan pada laman client area anda pada bagian
 
@@ -29,5 +29,6 @@ Jika anda ingin menggunakan menu Manage DNS di kami (mengelola DNS record dari E
 
 dns1-parking.masterweb.com
 dns2-parking.masterweb.com
+
 
 Agar DNS zone dapat aktif. (https://support.exabytes.co.id/id/support/solutions/articles/14000131845-how-to-use-the-managed-dns-menu-in-customer-area)
