@@ -1,0 +1,19 @@
+---
+import SearchBox from "../components/SearchBox.astro"
+---
+
+<html lang="id">
+<head>
+<title>Pusat Panduan Online</title>
+<meta name="description" content="Kumpulan panduan dan tutorial praktis."/>
+</head>
+
+<body style="font-family:sans-serif;text-align:center;margin-top:120px">
+
+<h1 style="font-size:42px">Pusat Panduan</h1>
+<p>Cari tutorial yang kamu butuhkan</p>
+
+<SearchBox />
+
+</body>
+</html>
