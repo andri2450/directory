@@ -1,0 +1,15 @@
+<html>
+<head>
+<title><slot name="title" /></title>
+</head>
+
+<body style="font-family:sans-serif;max-width:800px;margin:auto">
+
+<h1><slot name="title" /></h1>
+
+<article>
+<slot />
+</article>
+
+</body>
+</html>
